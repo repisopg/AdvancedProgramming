@@ -1,3 +1,7 @@
 # AdvancedProgramming
+# Name: Lucy Thomas
+# Program: Cognitive Science of Language
+## Year: 4
 
-This is a line from RStudio
+>This is a quote! 
+:blush: 

@@ -1,8 +1,8 @@
 # LINGUIST 4PL3 - Advanced Programming for Linguists
 # Homework 0
 
-# Name: 
-# Repository: 
+# Name: Lucy
+# Repository: Hello-World
 
 # Learning Objectives:
 	# Understand the difference between git and GitHub
