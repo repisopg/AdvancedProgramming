@@ -1,8 +1,10 @@
 # LINGUIST 4PL3 - Advanced Programming for Linguists
 # Homework 0
 
-# Name: 
-# Repository: 
+# Name: Lucy Thomas
+# Repository: AdvancedProgramming
+# link: https://github.com/lucyrthomas/AdvancedProgramming
+
 
 # Learning Objectives:
 	# Understand the difference between git and GitHub
