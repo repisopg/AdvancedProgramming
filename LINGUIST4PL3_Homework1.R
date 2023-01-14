@@ -1,8 +1,9 @@
 # LINGUIST 4PL3 - Advanced Programming for Linguists
 # Homework 0
 
-# Name: 
-# Repository: 
+# Name: Allyson Appleton
+# Repository: AdvancedProgramming
+# Link: https://github.com/allysonappleton/AdvancedProgramming
 
 # Learning Objectives:
 	# Understand the difference between git and GitHub
