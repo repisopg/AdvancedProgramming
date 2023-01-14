@@ -2,7 +2,7 @@
 # Homework 0
 
 # Name: Lucy Thomas
-# Repository: Hello-World
+# Repository: AdvancedProgramming
 # link: https://github.com/lucyrthomas/AdvancedProgramming
 
 
