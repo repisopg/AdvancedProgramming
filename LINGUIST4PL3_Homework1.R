@@ -1,8 +1,9 @@
 # LINGUIST 4PL3 - Advanced Programming for Linguists
-# Homework 0
+# Homework 1
 
-# Name: 
-# Repository: 
+# Name: Juliana Short-Jimenez
+# Repository: shortjij/AdvancedProgramming 
+# repository link: https://github.com/shortjij/AdvancedProgramming
 
 # Learning Objectives:
 	# Understand the difference between git and GitHub
@@ -23,7 +24,6 @@
 # PART 1 - Create a GitHub account
 	# Navigate to https://github.com and follow the prompts
 	# Select GitHub free and verify your email address
-
 	# See: https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account
 
 
@@ -32,22 +32,19 @@
 	# Initialize the repository with a README file, and create
 	# Open and edit the README file to add your name, program and year
 	# Preview changes, add a message and commit to the main branch
-	
 	# See: https://docs.github.com/en/get-started/quickstart/hello-world
 
+#https://github.com/shortjij/Hello-World
+#https://github.com/shortjij/Hello-World.git
 
 # PART 3 - Create a personal copy of the course repository
-
 	# Advanced Programming repository: https://github.com/repisopg/AdvancedProgramming.git
-	
 	# Fork the Advanced Programming repository
 		# Navigate to repository you want to clone (the course repository) and click 'Fork'
 		# You can rename the fork and add a description
 		# Generate fork
 		# Now you have a copy of the course repository on your personal GitHub account
-	
 		# See: https://docs.github.com/en/get-started/quickstart/fork-a-repo
-	
 	# Clone your copy of the course repository to your local computer on R studio
 
 # PART 4 - Use GitHub markdown syntax
@@ -62,8 +59,8 @@
 	# See: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 
-# PART 5 - Submit a Pull Request
 
+# PART 5 - Submit a Pull Request
 #A pull request – also referred to as a merge request – is an event that takes place in software development when a contributor/developer
 #is ready to begin the process of merging new code changes with the main project repository.
 	# Navigate your remote copy of the course repository
@@ -76,7 +73,6 @@
 	# Enter your copy of the course repository as the head repository (main branch) (enter the link)
 	# Add your name as the title of the pull request and the link to your copy of the course repository in the comments
 	# Click create pull request
-	
 	# See: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork
 
   #For this assignment, you need to upload a copy of this Script on Avenue and submit a pull request before Monday 11:59PM.
