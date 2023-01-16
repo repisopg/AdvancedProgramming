@@ -1,8 +1,9 @@
 # LINGUIST 4PL3 - Advanced Programming for Linguists
 # Homework 0
 
-# Name: 
-# Repository: 
+# Name: Emma DiCienzo 
+# Repository: AdvancedProgramming
+# Link: https://github.com/emmadicienzo/AdvancedProgramming
 
 # Learning Objectives:
 	# Understand the difference between git and GitHub
