@@ -1,8 +1,8 @@
 # LINGUIST 4PL3 - Advanced Programming for Linguists
 # Homework 0
 
-# Name: 
-# Repository: 
+# Name: Renee Boney
+# Repository: https://github.com/boneyr1/AdvancedProgramming
 
 # Learning Objectives:
 	# Understand the difference between git and GitHub
