@@ -1,3 +1,7 @@
-# AdvancedProgramming
+## AdvancedProgramming
+Margaret Dao
+# Large Heading
+😀
+> Text that is a quote 
 
-This is a line from RStudio
+

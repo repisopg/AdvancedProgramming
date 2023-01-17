@@ -1,8 +1,8 @@
 # LINGUIST 4PL3 - Advanced Programming for Linguists
 # Homework 0
 
-# Name: 
-# Repository: 
+# Name: Margaret Dao
+# Repository: https://github.com/margaretdao/AdvancedProgramming.git
 
 # Learning Objectives:
 	# Understand the difference between git and GitHub
